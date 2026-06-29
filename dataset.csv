@@ -1,0 +1,11 @@
+email,label
+"Congratulations! You won a free iPhone. Click this link now",phishing
+"Your bank account is locked. Verify your password immediately",phishing
+"Meeting scheduled tomorrow at 10 AM",safe
+"Here is the project report document",safe
+"Claim your reward by clicking suspicious link",phishing
+"Your Amazon order has been delivered",safe
+"Urgent! Update your account information",phishing
+"Let's discuss the assignment today",safe
+"Free money offer click here",phishing
+"Your exam timetable is attached",safe
